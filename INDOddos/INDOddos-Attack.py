@@ -29,6 +29,8 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("")
+os.system("python2 /data/data/com.termux/files/usr/bin/tampil.py")
+
 print
 print ""+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+W+""
 print "[ Website  ] : "+C+"https"+W+"://www.pasaronlen.com    "+O+"["+B+"+"+O+"]"+W+""
