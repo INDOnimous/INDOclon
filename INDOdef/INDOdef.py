@@ -16,5 +16,5 @@ print
 print("Data Sedang Di pindahkan, Silahkan Tunggu.")
 os.system("sleep 5")
 print("Berhasil Di pindahkan ke /storage/emulated/0/INDOnimous/INDOscript.html")
-os.system("sleep3")
+os.system("sleep 3")
 print("[ Script Siap Di gunakan ]")
